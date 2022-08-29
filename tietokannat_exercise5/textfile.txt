@@ -1,0 +1,21 @@
+Paintings
+'Varhainen fight', 'Pemprant', '1969', 'oil','2'
+'Muuan Lissu', 'Da Vinkki', '1337','watercolor','1337'
+'Hirvee mökä','Norski Jäbä', '2001','acrylic',9001
+'Turbaanipäätyty','Animulover69','2022','pencil','1'
+'Viruksen syntyma','Si Simping','2019','graphic','9999'
+'Ehä puhtoollinen','Meksikolainen Jesus','2015','other','777'
+Museums
+'Esboon bönde','Päälafkantie 1','Espoo',''
+'Lappeen rannan LUTTISTA -lafka','Ei mulkeroiden -tie 3','Lappeenranta','wwww.lut.fi'
+Owns
+'Esboon bönde', 'Varhainen fight','Pemprant','2000-01-01','2030-01-01'
+'Esboon bönde', 'Muuan Lissu','Da Vinkki','2000-01-01','2030-01-01'
+'Esboon bönde', 'Hirvee mökä','Norski Jäbä','2000-01-01','2030-01-01'
+'Lappeen rannan LUTTISTA -lafka','Turbaanipäätyty','Animulover69','2020-03-15','2022-02-28'
+'Lappeen rannan LUTTISTA -lafka', 'Viruksen syntyma','Si Simping','2020-03-15','2022-02-28'
+'Lappeen rannan LUTTISTA -lafka','Ehä puhtoollinen','Meksikolainen Jesus','2020-03-15','2022-02-28'
+
+
+
+
